@@ -1,0 +1,258 @@
+.resume{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    /* top: 0; */
+    overflow-x: hidden;
+    padding-top: 30px;
+    margin-left: 2px;
+    
+
+}
+
+.resume-details{
+    /* width: 730px; */
+    left: 0;
+    background-color: rgb(255, 255, 255);
+    
+    
+    
+}
+.res-box{
+    /* margin: -775px 0px 0px 735px; */
+    background-color: #a2accd;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    /* top: 0; */
+    overflow-x: hidden;
+    padding-top: 30px;
+    margin-left: 2px;
+    padding: 24px 64px;
+    max-height: 100vh;
+    overflow: auto;
+    
+    
+    /* width: 770px ; */
+    
+    
+}
+.res-box button{
+    
+  
+    padding: 10px 16px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 1rem;
+    line-height: 2rem;
+    font-weight: 50;
+    width: auto;
+    margin: 10px;
+    
+    cursor: pointer;
+    color: #fff;
+    background-color: #2f5cf8;
+    border-color: #2f5cf8;
+    border-radius:25px ;
+
+}
+.name{
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    /* transition: none; */
+    box-sizing: border-box;
+   
+    position: relative;
+    z-index: 99;
+    font-weight: 600;
+    unicode-bidi: isolate;
+    text-align: center;
+    color: #465690;
+}
+.list-titles{
+    float:left;
+    text-align:left;
+    font-weight:600;
+    width:40%;
+    
+}
+
+.education{
+    margin-bottom: 40px; 
+    letter-spacing: 2px;
+    
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+
+
+    margin-bottom: 0px;
+}
+
+.email{
+    
+	
+    
+    /* transition: none; */
+    box-sizing: border-box;
+   
+    position: relative;
+    z-index: 99;
+    font-weight: 600;
+    unicode-bidi: isolate;
+    text-align: center;
+    margin-bottom: 20px;
+  
+    font-weight: 300;
+}
+.email p{
+   font-weight: 700;
+}
+
+.res-show{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    margin: 40px 0px 60px 60px ;
+    padding-left: 25px;
+    position: relative;
+    margin-bottom: 30px;
+    transition: none;
+    box-sizing: border-box;
+}
+.skil{
+    font-weight: bold;
+    color: rgb(3, 17, 17);
+
+}
+
+.skills{
+    padding-left: 70px;
+    background:rgba(0,0,0,.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:15px 15px 0 0;
+	padding:10px;
+	text-align:justify;
+}
+    
+    
+
+
+
+.resume res-box{
+    width: 50%;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 30px;
+    margin-left: 2px;
+    
+
+}
+.basic-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+    position: relative;
+    margin-bottom: 40px;
+   
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+   
+  
+    
+}
+
+
+input[type="text" i] {
+    padding-block: px;
+    padding-inline: px;
+}
+.summary-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;  
+    line-height: 1.8;
+    word-spacing: 2px;
+      
+}
+.summmary{
+    text-align: center;
+}
+
+
+.education-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+
+}
+
+input{
+
+    padding: 8px 2px;
+    margin: 8px 0;
+    
+    border: 1px solid #b7b6b6;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.work-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+}
+
+.project-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+}
+
+.skill-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+}
+
+.others-details{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    line-height: 1.8;
+    word-spacing: 2px;
+}
+
+.empty{
+    position: relative;
+    margin-left: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+}
+
